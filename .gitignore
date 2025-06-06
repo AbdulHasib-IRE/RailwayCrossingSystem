@@ -1,0 +1,20 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor backup files
+.*.swp
+.*.swo
+*~
+
+# Ignore build directories
+/build
+*.build/
+
+# Ignore IDE configuration files
+.idea/
+.vs/
+.vscode/
+
+# Ignore temporary and log files
+*.log
+*.tmp
